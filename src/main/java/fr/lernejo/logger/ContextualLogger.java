@@ -8,10 +8,9 @@ public class ContextualLogger implements Logger
 {
     private final Logger delegateLogger;
     private final String callerClass;
-    public ContextualLogger(Logger  delegateLogger,String callerClass)
-    {
-        this.delegateLogger=delegateLogger;
-        this.callerClass=callerClass;
+    public ContextualLogger(String callerClass,Logger delegateLogger ) {
+        this.callerClass = callerClass;
+        this.delegateLogger = delegateLogger;
     }
     @Override
     public void log(String message) {

@@ -1,20 +1,20 @@
-2021-12-02 10:36:37.117 simulation Début de la partie
-2021-12-02 10:36:37.148 player Lower
-2021-12-02 10:36:37.148 player Lower
-2021-12-02 10:36:37.148 player Lower
-2021-12-02 10:36:37.148 player Lower
-2021-12-02 10:36:37.148 player Lower
-2021-12-02 10:36:37.148 player Greater
-2021-12-02 10:36:37.148 simulation Number has been found.
-2021-12-02 10:36:37.148 simulation Fini avant le maximum d'itérations : 6
-2021-12-02 10:36:37.242 simulation Temps : 00:00.000
-2021-12-02 10:54:34.793 simulation Début de la partie
-2021-12-02 10:54:34.824 player Lower
-2021-12-02 10:54:34.824 player Lower
-2021-12-02 10:54:34.824 player Lower
-2021-12-02 10:54:34.824 player Lower
-2021-12-02 10:54:34.824 player Lower
-2021-12-02 10:54:34.839 player Greater
-2021-12-02 10:54:34.839 simulation Number has been found.
-2021-12-02 10:54:34.839 simulation Fini avant le maximum d'itérations : 6
-2021-12-02 10:54:34.918 simulation Temps : 00:00.015
+2021-12-02 11:09:36.899 simulation Début de la partie
+2021-12-02 11:09:36.915 simulation Number has been found.
+2021-12-02 11:09:36.915 simulation Fini avant le maximum d'itérations : 6
+2021-12-02 11:09:37.009 simulation Temps : 00:00.000
+2021-12-02 11:10:02.092 simulation Début de la partie
+2021-12-02 11:10:02.108 simulation Number has been found.
+2021-12-02 11:10:02.108 simulation Fini avant le maximum d'itérations : 6
+2021-12-02 11:10:02.202 simulation Temps : 00:00.016
+2021-12-02 12:47:25.622 simulation Début de la partie
+2021-12-02 12:47:25.622 simulation Number has been found.
+2021-12-02 12:47:25.638 simulation Fini avant le maximum d'itérations : 6
+2021-12-02 12:47:25.778 simulation Temps : 00:00.016
+2021-12-02 12:47:46.123 simulation Début de la partie
+2021-12-02 12:47:46.139 simulation Number has been found.
+2021-12-02 12:47:46.154 simulation Fini avant le maximum d'itérations : 6
+2021-12-02 12:47:46.233 simulation Temps : 00:00.031
+2021-12-02 12:52:33.321 simulation Début de la partie
+2021-12-02 12:52:33.321 simulation Number has been found.
+2021-12-02 12:52:33.336 simulation Fini avant le maximum d'itérations : 6
+2021-12-02 12:52:33.446 simulation Temps : 00:00.015

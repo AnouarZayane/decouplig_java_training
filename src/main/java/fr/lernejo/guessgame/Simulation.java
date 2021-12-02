@@ -30,7 +30,7 @@ public class Simulation {
 
             long newnumber = player.askNextGuess();
             if (newnumber == numberToGuess) {
-                logger.log("Number has been found.");
+                logger.log("win");
                 return true;
             } else {
                 if (newnumber < numberToGuess) {
