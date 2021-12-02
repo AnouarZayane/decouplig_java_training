@@ -8,3 +8,13 @@
 2021-12-02 10:36:37.148 simulation Number has been found.
 2021-12-02 10:36:37.148 simulation Fini avant le maximum d'itérations : 6
 2021-12-02 10:36:37.242 simulation Temps : 00:00.000
+2021-12-02 10:54:34.793 simulation Début de la partie
+2021-12-02 10:54:34.824 player Lower
+2021-12-02 10:54:34.824 player Lower
+2021-12-02 10:54:34.824 player Lower
+2021-12-02 10:54:34.824 player Lower
+2021-12-02 10:54:34.824 player Lower
+2021-12-02 10:54:34.839 player Greater
+2021-12-02 10:54:34.839 simulation Number has been found.
+2021-12-02 10:54:34.839 simulation Fini avant le maximum d'itérations : 6
+2021-12-02 10:54:34.918 simulation Temps : 00:00.015
